@@ -126,13 +126,13 @@ DarkRP.declareChatCommand{
 DarkRP.declareChatCommand{
 	command = "advert",
 	description = "Advertise something to everyone in the server.",
-	delay = 0
+	delay = 1.0
 }
 
 DarkRP.declareChatCommand{
     command = "radio",
     description = "Say something through the radio.",
-    delay = 1.5
+    delay = 0
 }
 
 DarkRP.declareChatCommand{

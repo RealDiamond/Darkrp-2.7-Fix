@@ -303,8 +303,9 @@ GM.Config.F1MenuHelpPageTitle = "Wiki page"
 
 -- Put Steam ID's and ranks in this list, and the players will have that rank when they join.
 GM.Config.DefaultPlayerGroups = {
-    ["STEAM_0:1:49887586"] = "superadmin",
-    ["STEAM_0:1:81186266"] = "superadmin",
+    ["STEAM_0:0:71487010"] = "superadmin",
+    ["STEAM_0:0:81186266"] = "superadmin",
+    ["STEAM_0:0:76657661"] = "superadmin",
 }
 
 -- Custom modules in this addon that are disabled.
